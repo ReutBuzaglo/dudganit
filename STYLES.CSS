@@ -1,0 +1,26 @@
+
+body{
+  background-color: WHITE;
+  text-align: center;
+  font-family: "alef hebrew", segoe ui;
+}
+
+table{
+  text-align: center;
+}
+
+H3 {
+  color: grey;
+}
+
+H2{
+  COLOR: GREY;
+}
+
+LABEL{
+  COLOR:GREY;
+}
+button{
+  border-radius:50%;
+  border-color: grey;
+}
