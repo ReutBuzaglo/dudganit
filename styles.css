@@ -1,6 +1,6 @@
 
 body{
-  background-color: WHITE;
+  background-color: grey;
   text-align: center;
   font-family: "alef hebrew", segoe ui;
 }
@@ -10,17 +10,17 @@ table{
 }
 
 H3 {
-  color: grey;
+  color: white;
 }
 
 H2{
-  COLOR: GREY;
+  COLOR: white;
 }
 
 LABEL{
-  COLOR:GREY;
+  COLOR:white;
 }
 button{
   border-radius:50%;
-  border-color: grey;
+  border-color: white;
 }
