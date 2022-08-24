@@ -8,17 +8,11 @@ table{
   text-align: center;
 }
 
-H3 {
+H1, H2, H3, LABEL {
   color: white;
+  TEXT-ALIGN:center;
 }
 
-H2{
-  COLOR: white;
-}
-
-LABEL{
-  COLOR:white;
-}
 button{
   border-radius:50%;
   border-color: white;
