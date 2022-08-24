@@ -11,9 +11,11 @@ table{
 H1, H2, H3, LABEL{
   color: white;
   text-align:center;
+  height: 100%;
 }
 
 button{
   border-radius:50%;
   border-color: white;
+  color: black;
 }
