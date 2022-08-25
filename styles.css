@@ -2,14 +2,21 @@
 body{
   background-color: lightgrey;
   text-align: center;
-  font-family:  "alef hebrew", "segoe ui";
+  font-family: 'Heebo', sans-serif;
+ }
+ .app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
  }
 table{
   text-align: center;
 }
 
 H1, H2, H3, LABEL{
-  color: white;
+  color: black;
   text-align:center;
   height: auto;
 }
